@@ -1,3 +1,17 @@
-# Welcome to my blog
+# I'm Shrey, a developer who's new to GitHub.
 
-I'm glad you are here. I plan to talk about ...
+Hi, boi!
+
+
+
+
+
+
+
+
+
+
+
+
+
+G'bye now!
