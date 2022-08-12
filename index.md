@@ -1,17 +1,3 @@
 # I'm Shrey, a developer who's new to GitHub.
 
-Hi, boi!
-
-
-
-
-
-
-
-
-
-
-
-
-
-G'bye now!
+I am currently 12 years old.
